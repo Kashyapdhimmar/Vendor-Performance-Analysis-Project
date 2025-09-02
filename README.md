@@ -62,17 +62,8 @@ Visualization: Bar charts, pivot tables, and dashboards for quick insights.
 
 5. Screenshots
 
-SQL Tables & Queries
-![SQL Tables](dashboard/images/sql_tables.png)
-![SQL Queries](dashboard/images/sql_queries.png)
-
-Python Data Cleaning (VS Code)
-![Python Data Cleaning](dashboard/images/python_data_cleaning.png)
-
-Jupyter Notebook Analysis
-![Jupyter Notebook Analysis](dashboard/images/jupyter_analysis.png)
-
-Power BI Dashboard
-![Power BI Dashboard](dashboard/images/powerbi_dashboard.png)
-
+<img src="dashboard/images/sql_tables.png" alt="SQL Tables" width="600">
+<img src="dashboard/images/python_data_cleaning.png" alt="Python Data Cleaning" width="600">
+<img src="dashboard/images/jupyter_analysis.png" alt="Jupyter Notebook Analysis" width="600">
+<img src="dashboard/images/powerbi_dashboard.png" alt="Power BI Dashboard" width="600">
 
