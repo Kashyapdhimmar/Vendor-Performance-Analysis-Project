@@ -14,7 +14,6 @@ Key components:
 
 Vendor_Performance_Analysis/
 │
-├── data/ # Raw & cleaned CSVs
 ├── dashboard/ # Power BI files & assets
 ├── notebook/ # Jupyter notebooks
 ├── script/ # Python scripts for data cleaning/analysis
@@ -66,4 +65,7 @@ Visualization: Bar charts, pivot tables, and dashboards for quick insights.
 <img src="dashboard/images/python_data_cleaning.png" alt="Python Data Cleaning" width="600">
 <img src="dashboard/images/jupyter_analysis.png" alt="Jupyter Notebook Analysis" width="600">
 <img src="dashboard/images/powerbi_dashboard.png" alt="Power BI Dashboard" width="600">
+
+**Note:** The raw CSV data files are not included in this repository due to size/privacy. You will need to use your own data or request access to the CSVs to run the full project.
+
 
